@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=AdaPolice 
+Comment=AdaPolice P2P Cryptocurrency
+Comment[fr]=AdaPolice, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=AdaPolice, eşten eşe kriptografik sanal para birimi
+Exec=adapolice-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/adapolice;
+Categories=Office;Finance;
+StartupWMClass=adapolice-qt

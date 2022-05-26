@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=AdaPolice
+Comment= APC P2P Cryptocurrency
+Comment[fr]= APC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= APC, eşten eşe kriptografik sanal para birimi
+Exec=adapolice-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=AdaPolice-qt

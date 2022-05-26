@@ -1,0 +1,11 @@
+[Protocol]
+exec=adapolice-qt '%u'
+protocol=adapolice
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

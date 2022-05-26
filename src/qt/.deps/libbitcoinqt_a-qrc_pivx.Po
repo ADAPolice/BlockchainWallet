@@ -1,0 +1,3 @@
+qt/libbitcoinqt_a-qrc_pivx.o: qt/qrc_pivx.cpp /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
